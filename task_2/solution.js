@@ -10,6 +10,7 @@ function calcShipping(sum, min, shipping) {
     // если productsSum равно 0,
     // то shippingSum присвоить значение 0
     // еще один комментарий
+    // еще один комментарий2
 
     // если productsSum Больше или равна freeShippingMinSum,
     // то shippingSum присвоить значение 0
